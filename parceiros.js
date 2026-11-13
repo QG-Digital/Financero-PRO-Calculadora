@@ -107,9 +107,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     label: 'Ganhos Acumulados',
                     data: data,
                     backgroundColor: 'rgba(29, 209, 161, 0.2)',
-                    borderColor: '#1dd1a1',
+                    borderColor: '#162d5e',
                     borderWidth: 3,
-                    pointBackgroundColor: '#1dd1a1',
+                    pointBackgroundColor: '#162d5e',
                     pointRadius: 5,
                     tension: 0.1,
                     fill: true
